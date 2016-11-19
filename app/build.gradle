@@ -18,6 +18,8 @@ android {
         }
     }
 }
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.rzetzsche'
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
