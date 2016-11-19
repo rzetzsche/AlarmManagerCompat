@@ -1,0 +1,30 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+#IDEA Files
+*.iml
+*.idea
+
+# generated files
+bin/
+gen/
+MANIFEST.MF
+build.num
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Distribution files
+dist/
+/.idea
+/.gradle
+*/build
+build/
+movisensXSAndroidAppCore/.signing/
