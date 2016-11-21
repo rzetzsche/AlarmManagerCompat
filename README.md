@@ -11,7 +11,7 @@ repositories {
     maven { url "https://jitpack.io" }
 }
 dependencies {
-    compile 'com.github.rzetzsche:alarmmanagercompat:0.1.1'
+    compile 'com.github.rzetzsche:alarmmanagercompat:0.1'
 }
 ```
 
